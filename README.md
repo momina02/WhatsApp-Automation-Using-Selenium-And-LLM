@@ -1,8 +1,3 @@
-Here’s the updated `README.md` without any reference to **Proxima AI**:
-
----
-
-````markdown
 # 🤖 WhatsApp AI Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
@@ -30,7 +25,7 @@ Here’s the updated `README.md` without any reference to **Proxima AI**:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/whatsapp-ai-bot.git
+git clone https://github.com/momina02/whatsapp-ai-bot.git
 cd whatsapp-ai-bot
 ````
 
@@ -86,23 +81,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📬 Contact
 
-Have questions or feedback? Reach out via [email@example.com](mailto:email@example.com)
-
----
-
-### 🚀 Smart Messaging Assistant for WhatsApp
-
-> *Your virtual assistant, smarter and faster.*
-
-```
-
-Let me know if you'd like a version tailored for deployment, e.g. with Docker or Replit support!
-```
+Have questions or feedback? Reach out!
